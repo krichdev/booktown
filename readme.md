@@ -62,12 +62,10 @@ Complete the following exercises to practice using SQL.
 ###Joins
 
 * Find all books about Computers list ONLY book title
-* Find all books and display a result table with ONLY the following columns
 	* Book title
 	* Author's first name
 	* Author's last name
 	* Book subject
-* Find all books that are listed in the stock table
 	* Sort them by retail price (most expensive first)
 	* Display ONLY: title and price
 * Find the book "Dune" and display ONLY the following columns
